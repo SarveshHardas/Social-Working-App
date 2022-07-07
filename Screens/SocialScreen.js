@@ -38,7 +38,7 @@ export default class SocialScreen extends Component {
     return (
       <View style={styles.container}>
         <SafeAreaView style={styles.androidSafeAreaView} />
-        <Text style={styles.mainText}>Social Working App</Text>
+        <Text style={styles.mainText}>Socio-worker</Text>
         <ScrollView>
           <TextInput
             style={styles.textinput}
